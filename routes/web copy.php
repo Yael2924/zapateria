@@ -1,6 +1,5 @@
 <?php
 
-use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProductoController;
 
@@ -23,15 +22,15 @@ Route::get('/contacto', function () {
 // Solo la búsqueda es funcional
 Route::get('/buscar', [ProductoController::class, 'buscar'])->name('buscar');
 
+// Vistas demostrativas (sin funcionalidad)
+Route::get('/registrar', function () {
+    return view('auth.registrar');
+})->name('registrar');
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
+Route::get('/login', function () {
+    return view('auth.login');
+})->name('login');
 
-Route::middleware('auth')->group(function () {
-    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
-});
-
-require __DIR__.'/auth.php';
+Route::get('/recuperar', function () {
+    return view('auth.recuperar');
+})->name('recuperar');

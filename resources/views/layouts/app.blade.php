@@ -115,7 +115,7 @@
                         <li><a href="{{ route('nosotros') }}">Nosotros</a></li>
                         <li><a href="{{ route('servicios') }}">Productos</a></li>
                         <li><a href="{{ route('contacto') }}">Contacto</a></li>
-                        <li><a href="{{ route('registrar') }}">Registrarse</a></li>
+                        {{-- <li><a href="{{ route('registrar') }}">Registrarse</a></li> --}}
                         <li><a href="#">Mapa del sitio</a></li>
                     </ul>
                 </div>
