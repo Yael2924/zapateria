@@ -9,8 +9,8 @@
             <!-- Logo y marca -->
             <div class="login-logo">
                 <i class="fas fa-gem logo-icon"></i>
-                <h1 class="brand-text">Elegance</h1>
-                <div class="brand-subtitle">LUXURY STORE</div>
+                <h1 class="brand-text">SoleVault</h1>
+                <div class="brand-subtitle">TIENDA EXCLUSIVA</div>
             </div>
 
             <!-- Tarjeta de login -->
