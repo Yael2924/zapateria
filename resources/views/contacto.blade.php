@@ -484,6 +484,9 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
+                        <a class="nav-link" href="/">Inicio</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/ayuda">Ayuda</a>
                     </li>
                     <li class="nav-item active">
@@ -707,7 +710,7 @@
 
                 <div class="col-lg-4 mb-4">
                     <h5>Contacto</h5>
-                    <p>Email: info@elegancestore.com</p>
+                    <p>Email: solevault2024@gmail.com</p>
                     <p>Teléfono: +52 (919) 114-1608</p>
                 </div>
 

@@ -724,6 +724,9 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
+                        <a class="nav-link" href="/">Inicio</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/ayuda">Ayuda</a>
                     </li>
                     <li class="nav-item">
@@ -984,7 +987,7 @@
                             <div class="sender-avatar">ST</div>
                             <div class="sender-info">
                                 <h5 id="detailSender">Soporte Técnico</h5>
-                                <p id="detailEmail">soporte@solevault.com</p>
+                                <p id="detailEmail">solevault2024@gmail.com</p>
                                 <p id="detailTime">Hace 2 horas</p>
                             </div>
                         </div>
@@ -1063,7 +1066,7 @@
 
                 <div class="col-lg-4 mb-4">
                     <h5>Contacto</h5>
-                    <p>Email: info@solevault.com</p>
+                    <p>Email: solevault2024@gmail.com</p>
                     <p>Teléfono: +52 (919) 114-1608</p>
                 </div>
 
@@ -1094,7 +1097,7 @@
                 1: {
                     subject: 'Urgente: Problema con tu pedido #SV-2024-001',
                     sender: 'Soporte Técnico',
-                    email: 'soporte@solevault.com',
+                    email: 'solevault2024@gmail.com',
                     time: 'Hace 2 horas',
                     body: `<p>Estimado cliente,</p>
                     
@@ -1125,7 +1128,7 @@
                 2: {
                     subject: 'Oferta exclusiva: 20% descuento en nueva colección',
                     sender: 'María González - Departamento de Ventas',
-                    email: 'ventas@solevault.com',
+                    email: 'solevault2024@gmail.com',
                     time: 'Ayer, 14:30',
                     body: `<p>Estimado cliente,</p>
                     
@@ -1159,7 +1162,7 @@
                 3: {
                     subject: 'Confirmación de devolución #DEV-2024-045',
                     sender: 'Carlos Ruiz - Atención al Cliente',
-                    email: 'atencion@solevault.com',
+                    email: 'solevault2024@gmail.com',
                     time: '25 Mar, 2024',
                     body: `<p>Estimado cliente,</p>
                     

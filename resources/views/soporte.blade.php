@@ -666,6 +666,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/ayuda">Ayuda</a>
                     </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/soporte">Chat</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -721,8 +724,9 @@
                         y cualquier consulta general sobre tu experiencia de compra.
                     </p>
                     <div class="contact-detail">
-                        <i class="fas fa-envelope me-2"></i> cliente@elegancestore.com
+                        <i class="fas fa-envelope me-2"></i> solevault2024@gmail.com
                     </div>
+                    <br>
                     <a href="mailto:cliente@elegancestore.com?subject=Consulta%20de%20Atención%20al%20Cliente" 
                        class="btn-email">
                         <i class="fas fa-envelope"></i> Enviar Correo
@@ -871,7 +875,7 @@
                     <a href="https://wa.me/9191141608" class="btn btn-outline-light btn-sm me-2" target="_blank">
                         <i class="fab fa-whatsapp"></i> WhatsApp
                     </a>
-                    <a href="mailto:soporte@elegancestore.com" class="btn btn-outline-light btn-sm">
+                    <a href="mailto:solevault2024@gmail.com" class="btn btn-outline-light btn-sm">
                         <i class="fas fa-envelope"></i> Email
                     </a>
                 </div>
@@ -888,7 +892,7 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
                 <h5>Contacto</h5>
-                <p><i class="fas fa-envelope me-2"></i> soporte@elegancestore.com</p>
+                <p><i class="fas fa-envelope me-2"></i> solevault2024@gmail.com</p>
                 <p><i class="fas fa-phone me-2"></i> +52 (919) 114-1608</p>
                 <p><i class="fab fa-whatsapp me-2"></i> WhatsApp: +52 (919) 114-1608</p>
             </div>

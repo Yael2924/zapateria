@@ -677,8 +677,8 @@
                     </div>
                     <div class="faq-answer">
                         <p>Puedes contactarnos a través de nuestro formulario de contacto, 
-                        por email a soporte@elegancestore.com o por teléfono al 
-                        +1 (555) 123-4567. Nuestro horario de atención es de lunes a 
+                        por email a solevault2024@gmail.com o por teléfono al 
+                        +52 (919) 114-1608. Nuestro horario de atención es de lunes a 
                         viernes de 9:00 a 18:00 horas y sábados de 10:00 a 14:00 horas.</p>
                     </div>
                 </div>
@@ -710,9 +710,9 @@
                 <div class="contact-method-card fade-in-up">
                     <i class="fas fa-envelope contact-icon"></i>
                     <h4 class="contact-title">Correo Electrónico</h4>
-                    <p class="contact-info">soporte@elegancestore.com</p>
+                    <p class="contact-info">solevault2024@gmail.com</p>
                     <p class="contact-info">Respuesta en 24 horas</p>
-                    <a href="mailto:soporte@elegancestore.com" class="btn-contact">Enviar Email</a>
+                    <a href="solevault2024@gmail.com" class="btn-contact">Enviar Email</a>
                 </div>
                 
                 <div class="contact-method-card fade-in-up" style="animation-delay: 0.2s;">
@@ -759,7 +759,7 @@
 
             <div class="col-lg-4 mb-4">
                 <h5>Contacto</h5>
-                <p>Email: info@elegancestore.com</p>
+                <p>Email: solevault2024@gmail.com</p>
                 <p>Teléfono: +52 (919) 114-1608</p>
             </div>
 
