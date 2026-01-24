@@ -24,6 +24,10 @@ Route::get('/ayuda', function () {
     return view('ayuda');
 })->name('ayuda');
 
+Route::get('/soporte', function () {
+    return view('soporte');
+})->name('soporte');
+
 // Solo la búsqueda es funcional
 Route::get('/buscar', [ProductoController::class, 'buscar'])->name('buscar');
 

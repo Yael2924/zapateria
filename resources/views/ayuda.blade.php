@@ -608,12 +608,14 @@
                         Información sobre tiempos de entrega, costos de envío, 
                         seguimiento de pedidos y políticas de entrega.
                     </p>
+                    <br>
                     <a href="#" class="btn-help">Explorar temas</a>
                 </div>
                 
                 <div class="help-category-card fade-in-up" style="animation-delay: 0.4s;">
                     <i class="fas fa-exchange-alt category-icon"></i>
                     <h3 class="category-title">Devoluciones y Cambios</h3>
+                    <br>
                     <p class="category-description">
                         Conoce nuestra política de devoluciones, cómo solicitar 
                         un cambio y los plazos para hacerlo.
@@ -716,9 +718,9 @@
                 <div class="contact-method-card fade-in-up" style="animation-delay: 0.2s;">
                     <i class="fas fa-phone contact-icon"></i>
                     <h4 class="contact-title">Teléfono</h4>
-                    <p class="contact-info">+1 (555) 123-4567</p>
+                    <p class="contact-info">+52 (919) 114-1608</p>
                     <p class="contact-info">Lunes a Viernes: 9:00 - 18:00</p>
-                    <a href="tel:+15551234567" class="btn-contact">Llamar Ahora</a>
+                    <a href="tel:+529191141608" class="btn-contact">Llamar Ahora</a>
                 </div>
                 
                 <div class="contact-method-card fade-in-up" style="animation-delay: 0.4s;">
@@ -726,7 +728,11 @@
                     <h4 class="contact-title">Chat en Vivo</h4>
                     <p class="contact-info">Disponible 24/7</p>
                     <p class="contact-info">Respuesta inmediata</p>
-                    <a href="#" class="btn-contact">Iniciar Chat</a>
+                    <a href="https://wa.me/9191141608?text=Hola,%20necesito%20ayuda" 
+                    class="btn-contact"
+                    target="_blank">
+                        <i class="fab fa-whatsapp me-2"></i> Iniciar Chat
+                    </a>
                 </div>
             </div>
         </div>
@@ -754,7 +760,7 @@
             <div class="col-lg-4 mb-4">
                 <h5>Contacto</h5>
                 <p>Email: info@elegancestore.com</p>
-                <p>Teléfono: +1 (555) 123-4567</p>
+                <p>Teléfono: +52 (919) 114-1608</p>
             </div>
 
         </div>

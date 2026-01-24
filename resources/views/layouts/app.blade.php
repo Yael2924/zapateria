@@ -86,7 +86,7 @@
                         <a href="{{ route('ayuda') }}" class="nav-icon me-3" title="Ayuda">
                             <i class="fas fa-question-circle"></i>
                         </a>
-                        <a href="#" class="nav-icon" title="Chat">
+                        <a href="{{ route('soporte') }}" class="nav-icon" title="Chat">
                             <i class="fas fa-comment-dots"></i>
                         </a>
                     </div>
