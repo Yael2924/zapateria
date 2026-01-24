@@ -28,6 +28,10 @@ Route::get('/soporte', function () {
     return view('soporte');
 })->name('soporte');
 
+Route::get('/buzon', function () {
+    return view('buzon');
+})->name('buzon');
+
 // Solo la búsqueda es funcional
 Route::get('/buscar', [ProductoController::class, 'buscar'])->name('buscar');
 

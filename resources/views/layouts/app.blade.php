@@ -80,7 +80,7 @@
                         <a href="{{ route('login') }}" class="nav-icon me-3" title="Iniciar Sesión">
                             <i class="fas fa-user"></i>
                         </a>
-                        <a href="#" class="nav-icon me-3" title="Buzón">
+                        <a href="{{ route('buzon') }}" class="nav-icon me-3" title="Buzón">
                             <i class="fas fa-envelope"></i>
                         </a>
                         <a href="{{ route('ayuda') }}" class="nav-icon me-3" title="Ayuda">
