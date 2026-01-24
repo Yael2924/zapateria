@@ -557,7 +557,7 @@
                         <a class="nav-link" href="/ayuda">Ayuda</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/contacto">Contacto</a>
+                        <a class="nav-link" href="/contacto">Contáctanos</a>
                     </li>
                 </ul>
             </div>
@@ -766,7 +766,7 @@
         </div>
 
         <div class="footer-bottom text-center">
-            <p>&copy; 2024 Elegance Store. Todos los derechos reservados.</p>
+            <p>&copy; 2024 SoleVault. Todos los derechos reservados.</p>
         </div>
     </div>
 </footer>
