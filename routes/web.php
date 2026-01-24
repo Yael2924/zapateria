@@ -37,7 +37,7 @@ Route::get('/buscar', [ProductoController::class, 'buscar'])->name('buscar');
 
 
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    return view('inicio');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {

@@ -108,7 +108,7 @@
 </section>
 
 <!-- Catálogo de Productos -->
-<section class="featured-products">
+<section id="productos" class="featured-products">
     <div class="container">
         <h2 class="section-title text-center">COLECCIÓN DESTACADA</h2>
         <p class="text-center text-muted mb-5">Productos exclusivos seleccionados especialmente para ti</p>
