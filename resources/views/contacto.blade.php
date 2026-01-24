@@ -787,7 +787,7 @@
             // Validación personalizada para nombre
             function validateName() {
                 const name = nameInput.value.trim();
-                const nameRegex = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]{2,40}$/;
+                const nameRegex = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]{3,40}$/;
                 
                 if (!nameRegex.test(name)) {
                     nameInput.classList.add('is-invalid');
@@ -855,8 +855,8 @@
                 if (!validateName()) {
                     isValid = false;
                     document.getElementById('nameError').textContent = 
-                        nameInput.value.length < 2 ? 
-                        'El nombre debe tener al menos 2 caracteres.' : 
+                        nameInput.value.length < 3 ? 
+                        'El nombre debe tener al menos 3 caracteres.' : 
                         'El nombre solo puede contener letras y espacios (máximo 40 caracteres).';
                 }
                 
