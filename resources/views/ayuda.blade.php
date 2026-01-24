@@ -667,6 +667,13 @@
             </div>
         </section>
     </div>
+    <!-- Footer -->
+    <footer class="footer mt-auto">
+            <div class="text-center mt-4">
+                <p>&copy; 2026 SoleVault. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </footer>
 
 
     <script>
