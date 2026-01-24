@@ -20,6 +20,10 @@ Route::get('/contacto', function () {
     return view('contacto');
 })->name('contacto');
 
+Route::get('/ayuda', function () {
+    return view('ayuda');
+})->name('ayuda');
+
 // Solo la búsqueda es funcional
 Route::get('/buscar', [ProductoController::class, 'buscar'])->name('buscar');
 

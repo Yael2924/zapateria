@@ -83,7 +83,7 @@
                         <a href="#" class="nav-icon me-3" title="Buzón">
                             <i class="fas fa-envelope"></i>
                         </a>
-                        <a href="#" class="nav-icon me-3" title="Ayuda">
+                        <a href="{{ route('ayuda') }}" class="nav-icon me-3" title="Ayuda">
                             <i class="fas fa-question-circle"></i>
                         </a>
                         <a href="#" class="nav-icon" title="Chat">
