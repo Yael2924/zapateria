@@ -8,6 +8,10 @@ Route::get('/', function () {
     return view('inicio');
 })->name('inicio');
 
+Route::get('/mapa-del-sitio', function () {
+    return view('sitemap');
+})->name('sitemap');
+
 Route::get('/nosotros', function () {
     return view('nosotros');
 })->name('nosotros');

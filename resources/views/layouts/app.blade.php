@@ -182,7 +182,7 @@
     @yield('styles')
 </head>
 <body>
-    <!-- Banner de bienvenida (solo si está autenticado) -->
+    {{-- <!-- Banner de bienvenida (solo si está autenticado) -->
     @auth
     <div class="welcome-banner">
         <div class="container">
@@ -192,7 +192,7 @@
             </div>
         </div>
     </div>
-    @endauth
+    @endauth --}}
     
     <!-- Header y Navegación -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
@@ -346,7 +346,7 @@
                         @guest
                         <li><a href="{{ route('register') }}">Registrarse</a></li>
                         @endguest
-                        <li><a href="#">Mapa del sitio</a></li>
+                        <li><a href="{{ route('sitemap') }}">Mapa del sitio</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">
