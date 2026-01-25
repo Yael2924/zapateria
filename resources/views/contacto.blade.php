@@ -717,7 +717,7 @@
             </div>
 
             <div class="footer-bottom text-center">
-                <p>&copy; 2024 SoleVault. Todos los derechos reservados.</p>
+                <p>&copy; 2026 SoleVault. Todos los derechos reservados.</p>
             </div>
         </div>
     </footer>

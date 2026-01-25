@@ -353,7 +353,7 @@
                     <h5>Contacto</h5>
                     <p><i class="fas fa-map-marker-alt me-2"></i> Av. Luxury 123, Ciudad</p>
                     <p><i class="fas fa-phone me-2"></i> +52 55 1234 5678</p>
-                    <p><i class="fas fa-envelope me-2"></i> info@solevault.com</p>
+                    <p><i class="fas fa-envelope me-2"></i> solevault2024@gmail.com</p>
                 </div>
             </div>
             <div class="text-center mt-4">
